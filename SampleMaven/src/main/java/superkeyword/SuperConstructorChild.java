@@ -1,4 +1,4 @@
-package inheritance;
+package superkeyword;
 
 public class SuperConstructorChild extends SuperConstructorParent {
 	
